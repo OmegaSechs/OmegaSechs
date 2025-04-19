@@ -1,4 +1,5 @@
 👋 Olá, eu sou o @OmegaSechs (Erick Anunciação Carrilho)  
+
 💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de sistemas.  
 
 👀 Interesses:
