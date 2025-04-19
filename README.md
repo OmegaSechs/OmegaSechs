@@ -1,8 +1,25 @@
-# 👋 Hi, I’m @OmegaSechs
+👋 Olá, eu sou o @OmegaSechs (Erick Anunciação Carrilho)  
+💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de sistemas.  
 
-- 👀 I’m interested in technology, programming, AI projects, and innovation.
-- 🌱 I’m currently learning JavaScript, PostgreSQL, C/C++, and Node.js.
-- 💞️ I’m looking to collaborate on tech projects, especially in ERP systems, AI solutions, and software development.
-- 📫 How to reach me: erick.carrilhobr@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My interest in AI started with the *Megaman Battle Network* series — I’ve always been fascinated by the idea of digital companions!
+👀 Interesses:
+- Desenvolvimento web full-stack  
+- Sistemas ERP e automação empresarial  
+- Interação Humano-Computador  
+- Projetos colaborativos e inovadores  
+
+🌱 Atualmente estudando e trabalhando com:
+- JavaScript, Node.js e PostgreSQL  
+- HTML, Tailwind CSS e React  
+- Programação Orientada a Objetos e arquitetura limpa  
+
+💼 Projetos em andamento:
+- 🛠️ **Versatto ERP**: Sistema de gestão para empresarial, com foco em controle de vendas, serviços prestados e gestão financeira  
+
+💬 Aberto a colaborações em:
+- Projetos que unam tecnologia e praticidade  
+- Soluções para empresas e automação de processos  
+- Iniciativas educacionais ou open-source  
+
+📫 Contato: erick.carrilhobr@gmail.com  
+😄 Pronomes: Ele/Dele  
+⚡ Curiosidade: Desde criança sou fascinado pelos NatNavis de Megaman — Em breve pretendo criar o meu próprio!
