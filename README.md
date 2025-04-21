@@ -22,5 +22,4 @@
 - Iniciativas educacionais ou open-source  
 
 📫 Contato: erick.carrilhobr@gmail.com  
-😄 Pronomes: Ele/Dele  
 ⚡ Curiosidade: Desde criança sou fascinado pelos NatNavis de Megaman — Em breve pretendo criar o meu próprio!
