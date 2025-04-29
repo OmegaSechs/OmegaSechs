@@ -10,7 +10,7 @@
 
 🌱 Atualmente estudando e trabalhando com:
 - JavaScript, Node.js e PostgreSQL  
-- HTML, Tailwind CSS e React  
+- HTML, CSS 
 - Programação Orientada a Objetos e arquitetura limpa  
 
 💼 Projetos em andamento:
