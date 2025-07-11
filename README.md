@@ -2,21 +2,21 @@
 
 💻 Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de sistemas.  
 
-👀 Interesses:
+## Interesses:
 - Desenvolvimento web full-stack  
 - Sistemas ERP e automação empresarial  
 - Interação Humano-Computador  
 - Projetos colaborativos e inovadores  
 
-🌱 Atualmente estudando e trabalhando com:
+## Atualmente estudando e trabalhando com:
 - JavaScript, Node.js e PostgreSQL  
 - HTML, CSS 
 - Programação Orientada a Objetos e arquitetura limpa  
 
-💼 Projetos em andamento:
-- 🛠️ **Versatto ERP**: Sistema de gestão para empresarial, com foco em controle de vendas, serviços prestados e gestão financeira  
+## Projetos em andamento:
+-  **Versatto ERP**: Sistema de gestão para empresarial, com foco em controle de vendas, serviços prestados e gestão financeira  
 
-💬 Aberto a colaborações em:
+## Aberto a colaborações em:
 - Projetos que unam tecnologia e praticidade  
 - Soluções para empresas e automação de processos  
 - Iniciativas educacionais ou open-source  
