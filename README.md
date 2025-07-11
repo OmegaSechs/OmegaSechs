@@ -14,7 +14,8 @@
 - Programação Orientada a Objetos e arquitetura limpa  
 
 ## Projetos em andamento:
--  **Versatto ERP**: Sistema de gestão para empresarial, com foco em controle de vendas, serviços prestados e gestão financeira  
+-  **Versatto ERP**: Sistema de gestão para empresarial, com foco em controle de vendas, serviços prestados e gestão financeira
+-  Editor de arquivos .docx - Gerador de Lista de Autorizações em Java
 
 ## Aberto a colaborações em:
 - Projetos que unam tecnologia e praticidade  
