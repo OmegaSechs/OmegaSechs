@@ -40,11 +40,6 @@ Sou um desenvolvedor em formação, sempre em busca de novos desafios e aprendiz
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://pokemon-status.vercel.app/api?user=OmegaSechs&pokemon=beldum&theme=retro" alt="Pokémon GitHub Stats"/>
-</p>
-
-<p align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaSechs&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
@@ -54,8 +49,8 @@ Sou um desenvolvedor em formação, sempre em busca de novos desafios e aprendiz
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **Versatto ERP** | Sistema de gestão empresarial com foco em controle de vendas, serviços e gestão financeira. | `Node.js`, `PostgreSQL`, `JavaScript` |
-| **Editor de .docx** | Ferramenta em Java para gerar listas de autorizações a partir de arquivos `.docx`. | `Java` |
+| [**VersattoERP**](https://github.com/OmegaSechs/VersattoERP) | Sistema de gerenciamento de estoque e controle financeiro para empresas. | HTML, CSS, JavaScript |
+| [**Editor de .docx**](https://github.com/OmegaSechs/DocxEditor) | Ferramenta em Java para gerar listas de autorizações a partir de arquivos `.docx`. | Java |
 
 ---
 
