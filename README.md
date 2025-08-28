@@ -40,7 +40,11 @@ Sou um desenvolvedor em formação, sempre em busca de novos desafios e aprendiz
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmegaSechs&show_icons=true&theme=dracula"/>
+  <img src="https://pokemon-status.vercel.app/api?user=OmegaSechs&pokemon=beldum&theme=retro" alt="Pokémon GitHub Stats"/>
+</p>
+
+<p align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaSechs&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
