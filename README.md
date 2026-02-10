@@ -50,8 +50,9 @@ Sou um desenvolvedor em formação, sempre em busca de novos desafios e aprendiz
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**VersattoERP**](https://github.com/OmegaSechs/VersattoERP) | Sistema de gerenciamento de estoque e controle financeiro para empresas. | HTML, CSS, JavaScript |
+| [**VersattoERP**](https://github.com/OmegaSechs/VersattoERP) | Sistema de gerenciamento de estoque e controle financeiro para empresas. | HTML/CSS, Node, PostgreSQL |
 | [**Editor de .docx**](https://github.com/OmegaSechs/DocxEditor) | Ferramenta em Java para gerar listas de autorizações a partir de arquivos `.docx`. | Java |
+| [**TechnoWilds**](https://github.com/OmegaSechs/TechnoWilds) | Projeto de jogo para trabalho do quarto semestre do curso de Engenharia de Software. | C#, Unity |
 
 ---
 
